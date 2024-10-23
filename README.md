@@ -1,6 +1,3 @@
-Here is the guide formatted as a Markdown code block, ready for your `README.md` file:
-
-```markdown
 # TeachMe - Interactive Learning Platform
 
 ## Installation Guide
