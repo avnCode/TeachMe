@@ -25,14 +25,19 @@
 1. **Clone the Repository**
   ```bash
   git clone https://github.com/avnCode/TeachMe.git
-
+```
 
 2. **Navigate to Project Directory**
+   ```bash
   cd TeachMe
+```
 
-
-3. **Install Dependencies**
+4. **Install Dependencies**
+   ```bash
   npm install
+```
 
-4. **Start Development Server**
+6. **Start Development Server**
+   ```bash
   npm run dev
+```
