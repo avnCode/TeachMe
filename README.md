@@ -26,8 +26,10 @@
   ```bash
   git clone https://github.com/avnCode/TeachMe.git
 
+
 2. **Navigate to Project Directory**
   cd TeachMe
+
 
 3. **Install Dependencies**
   npm install
